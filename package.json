@@ -1,0 +1,29 @@
+{
+  "name": "kalasjocke.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kalasjocke/kalasjocke.github.io.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kalasjocke/kalasjocke.github.io/issues"
+  },
+  "homepage": "https://github.com/kalasjocke/kalasjocke.github.io",
+  "devDependencies": {
+    "autoprefixer": "^3.1.0",
+    "connect-livereload": "^0.4.0",
+    "express": "^4.9.7",
+    "gulp": "^3.8.8",
+    "gulp-autoprefixer": "^1.0.1",
+    "gulp-minify-css": "^0.3.10",
+    "gulp-rename": "^1.2.0",
+    "gulp-ruby-sass": "^0.7.1",
+    "tiny-lr": "^0.1.4"
+  }
+}

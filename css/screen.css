@@ -50,9 +50,8 @@ p a:hover {
 }
 
 .content {
-  height: 98%;
-  width: 98%;
-  padding: 1%;
+  height: 100%;
+  width: 100%;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -68,4 +67,5 @@ p a:hover {
 }
 .content .card {
   max-width: 550px;
+  margin: 20px;
 }

@@ -9,9 +9,6 @@ html, body {
 main {
   height: 100%;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 
 p {
@@ -21,6 +18,10 @@ p {
   line-height: 34px;
   font-weight: 500;
   color: rgba(0, 0, 0, 0.8);
+}
+
+.content {
+  margin: auto;
 }
 
 .emoji {
